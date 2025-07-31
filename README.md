@@ -42,7 +42,7 @@ Built using TF-IDF vectorization and the sigmoid kernel.
 
 3. Run the script:
    ```bash
-   python script_name.py
+   python main.py
 4. Enter a movie title when prompted to see recommendations.
 
 ## ✅ Example CLI Output
