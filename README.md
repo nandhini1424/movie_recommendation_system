@@ -67,4 +67,6 @@ Top 10 movie recommendations for 'The Dark Knight':
 
 - This is a content-based recommender: it doesn't use user ratings or viewing history.
 
+## ✏️ Author
 
+Built and documented by [nandhini1424](https://github.com/nandhini1424)
